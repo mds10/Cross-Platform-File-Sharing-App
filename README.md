@@ -1,6 +1,6 @@
 # ShareApp
 
-A new Flutter project.
+File Sharing App made in Flutter.
 
 ## Getting Started
 
