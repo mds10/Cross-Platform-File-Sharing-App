@@ -17,6 +17,7 @@ This is File Sharing App entirely made in Flutter. From this app, you can share 
 * Can Connect with 2 or more receivers and send file each them
 * Each member can send messages in the group 
 * Join the group with QR Code
+* Also user can create a server locally and share file through that server with any device
 ---
 ## Cloud Sharing
 
