@@ -1,16 +1,41 @@
-# ShareApp
+# File Sharing App (DroidRush2020) 
 
-File Sharing App made in Flutter.
+## Introduction
+This is File Sharing App entirely made in Flutter. From this app, you can share images videos, and also you can interact with the sender locally.
+## App Name - DigiShare
+[Here is the apk file](https://drive.google.com/file/d/1YK2_U5laS_G2JmUauaxUYZJzTEUQJWAz/view?usp=sharing)
+# Features
 
-## Getting Started
+## Local Sharing
 
-This project is a starting point for a Flutter application.
+* User can Share Files Locally (P2P)
+* Sender/Reciever can Chat with the receiver
+* Automatically Detect Receiver/Sender which is nearby
+* Also Connect with the Sender/Reciever End through QR Code
+* User can Share the apk files which are present on their phones
+* User can create or join Groups
+* Can Connect with 2 or more receivers and send file each them
+* Each member can send messages in the group 
+* Join the group with QR Code
+---
+## Cloud Sharing
 
-A few resources to get you started if this is your first Flutter project:
+* User can Register in the app through Google Authentication
+* User can store their privates file and share them with unique private key
+* Can Share Files publically
+* Each member can acces public files and can download them locally 
+* User can Search Files through name or tags
+* Can Search Files through Tags
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
+## History and Settings
+* List of all files transfers that user did
+* Can change their Name
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# ScreenShots 
+
+<p align="center"><img src="https://github.com/mds10/Cross-Platform-File-Sharing-App/blob/main/ScreenShots%20and%20PPT/Local%20Sharing%20Screen.jpeg" alt="Local Sharing " width="300" height="600"></p>
+<p align="center"><img src="https://github.com/mds10/Cross-Platform-File-Sharing-App/blob/main/ScreenShots%20and%20PPT/Register%20Page%20Screen.jpeg" alt="Local Sharing " width="300" height="600"></p>
+<p align="center"><img src="https://github.com/mds10/Cross-Platform-File-Sharing-App/blob/main/ScreenShots%20and%20PPT/User%20Files%20Screen.jpeg" alt="Local Sharing " width="300" height="600"></p>
+
+You can check more ScreenShots in the folder name ScreenShot and PPT
