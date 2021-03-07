@@ -17,21 +17,21 @@ This is File Sharing App entirely made in Flutter. From this app, you can share 
 * Can Connect with 2 or more receivers and send file each them
 * Each member can send messages in the group 
 * Join the group with QR Code
-* Also user can create a server locally and share file through that server with any device
+* Also, user can create a server locally and share a file through that server with any device
 ---
 ## Cloud Sharing
 
 * User can Register in the app through Google Authentication
-* User can store their privates file and share them with unique private key
+* User can store their private's file and share them with a unique private key
 * Can Share Files publically
-* Each member can acces public files and can download them locally 
-* User can Search Files through name or tags
+* Each member can access public files and can download them locally 
+* User can Search Files through Name or tags
 * Can Search Files through Tags
 
 ---
 ## History and Settings
 * List of all files transfers that user did
-* Can change their Name
+* Can change their Name Also
 
 # ScreenShots 
 
