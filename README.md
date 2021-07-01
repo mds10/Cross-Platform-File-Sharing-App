@@ -1,4 +1,4 @@
-# File Sharing App (DroidRush2020) 
+# DigiShare App (DroidRush2020) 
 
 ## Introduction
 This is File Sharing App entirely made in Flutter. From this app, you can share images videos, and also you can interact with the sender locally.
